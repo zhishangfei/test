@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>ipa包URL（必填）</string>
+                    <string>http://47.104.213.186/ios/ydh.ipa</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -19,7 +19,7 @@
                     <key>needs-shine</key>
                     <false/>
                     <key>url</key>
-                    <string>下载时大图（非必填）</string>
+                    <string>http://47.104.213.186/ios/img512.jpg</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -27,21 +27,21 @@
                     <key>needs-shine</key>
                     <false/>
                     <key>url</key>
-                    <string>下载时小图（非必填）</string>
+                    <string>http://47.104.213.186/ios/img57.jpg</string>
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>BundleID（必填）</string>
+                <string>com.founder.ovp.gv</string>
                 <key>bundle-version</key>
                 <string>1.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>subtitle</key>
-                <string>副标题（非必填）</string>
+                <string></string>
                 <key>title</key>
-                <string>应用名（必填）</string>
+                <string>方正出行</string>
             </dict>
         </dict>
     </array>
